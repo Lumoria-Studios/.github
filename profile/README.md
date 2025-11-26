@@ -39,10 +39,11 @@ Check out our main repository to see our progress:
 ### 👥 The Team
 *Meet the developers behind Lumoria Studios.*
 
-| <a href="https://github.com/B3rou"><img src="https://github.com/B3rou.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/MoQa-atx"><img src="https://github.com/MoQa-atx.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/gurbuzsuleyman"><img src="https://github.com/gurbuzsuleyman.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/Fatih-Gokturk"><img src="https://github.com/Fatih-Gokturk.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/ibrahimdde"><img src="https://github.com/ibrahimdde.png" width="80px" style="border-radius:50%"/></a> |
-| :---: | :---: | :---: | :---: | :---: |
-| **[@B3rou](https://github.com/B3rou)** | **[@MoQa-atx](https://github.com/MoQa-atx)** | **[@suleymanGurbuz](https://github.com/gurbuzsuleyman)** | **[@Fatih-Gokturk](https://github.com/Fatih-Gokturk)** | **[@ibrahimdde](https://github.com/ibrahimdde)** |
-| *Art Lead, Programmer* | *Team Lead, Programmer* | *Programmer* | *Lead Programmer* | *Programmer* |
+| <a href="https://github.com/B3rou"><img src="https://github.com/B3rou.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/MoQa-atx"><img src="https://github.com/MoQa-atx.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/gurbuzsuleyman"><img src="https://github.com/gurbuzsuleyman.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/Fatih-Gokturk"><img src="https://github.com/Fatih-Gokturk.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/ibrahimdde"><img src="https://github.com/ibrahimdde.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/edazacar"><img src="https://github.com/edazacar.png" width="80px" style="border-radius:50%"/></a> |
+| :---: | :---: | :---: | :---: | :---: | :---: |
+| **[@B3rou](https://github.com/B3rou)** | **[@MoQa-atx](https://github.com/MoQa-atx)** | **[@suleymanGurbuz](https://github.com/gurbuzsuleyman)** | **[@Fatih-Gokturk](https://github.com/Fatih-Gokturk)** | **[@ibrahimdde](https://github.com/ibrahimdde)** | **[@edazacar](https://github.com/edazacar)** |
+| *Art Lead, Programmer* | *Team Lead, Programmer* | *Programmer* | *Lead Programmer* | *Programmer* | *Artist* |
+
 
 *(More team members joining soon...)*
 
