@@ -45,9 +45,6 @@ Check out our main repository to see our progress:
 | *Art Lead, Programmer* | *Team Lead, Programmer* | *Programmer* | *Lead Programmer* | *Programmer* | *Artist* | *Programmer* |
 
 
-
-*(More team members joining soon...)*
-
 ---
 
 ### 📅 Current Status
