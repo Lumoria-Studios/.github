@@ -52,7 +52,7 @@ Check out our main repository to see our progress:
 
 - [x] Organization Established 🏢
 - [x] Roadmap Created 🗺️
-- [ ] Week 1: Basics & Setup 🚧
+- [x] Week 1: Basics & Setup 🚧
 - [ ] First Playable Demo 🎮
 
 ---
