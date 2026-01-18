@@ -1,63 +1,63 @@
 <div align="center">
 
-  <h1>🌌 Welcome to Lumoria Studios</h1>
-  
-  <p>
-    <strong>Building Worlds, One Line of Code at a Time.</strong>
-  </p>
+<br />
 
-  <img src="https://img.shields.io/badge/Unity-2022.3%2B-black?style=for-the-badge&logo=unity" alt="Unity" />
-  <img src="https://img.shields.io/badge/Language-C%23-blue?style=for-the-badge&logo=csharp" alt="C#" />
-  <img src="https://img.shields.io/badge/Art%20Pipeline-Krita-5D3E8D?style=for-the-badge&logo=krita" alt="Krita" />
-  <img src="https://img.shields.io/badge/3D%20Assets-Blender-F5792A?style=for-the-badge&logo=blender" alt="Blender" />
-  <img src="https://img.shields.io/badge/Organization-GitHub%20Projects-gray?style=for-the-badge&logo=github" alt="GitHub" />
+# 🌌 L U M O R I A &nbsp; S T U D I O S
 
-  <br />
-  <br />
+<br />
 
-  <p align="center">
-    We are a team of <strong>Computer Engineering students at Istanbul Medeniyet University</strong>.<br>
-    This organization documents our journey from "Hello World" to our "Dream Game".
-  </p>
+> *"Not just a game studio. A laboratory of ideas."*
+
+<br />
+
+<p align="center" width="60%">
+  We are a collective of Computer Engineering students from <strong>Istanbul Medeniyet University</strong>.<br>
+  We explore, we adapt, and we create.
+</p>
+
+<br />
+
+---
 
 </div>
 
+### 🧩 The Philosophy
+We don't limit ourselves to a single engine or language. We believe that the **team** is greater than the **tool**.
+
+* **🌱 Growth Over Grind:** We prioritize learning soft skills, workflow, and collaboration.
+* **🔄 Agile & Fluid:** Whether it's Unity, Roblox, or a custom C engine; if it works, we use it.
+* **🚀 Ship It:** Our goal is not perfection, but the experience of finishing what we started.
+
+<br />
+
+### 🚧 Current Focus: *The 2026 Cycle*
+We are currently in our **Prototyping Phase**.
+Instead of getting stuck in "Tutorial Hell," we are diving straight into production to learn by doing.
+
+* **Status:** Experimenting with rapid game loops.
+* **Goal:** Building team synergy and shipping a playable vertical slice.
+
+<br />
+
 ---
 
-### 🚀 Our Mission: From Scratch to Dream Game
-We have launched our **2025 Training Bootcamp**! We are following a custom, AI-assisted roadmap to optimize our learning journey. 
+### 👥 The Architects
+*The minds behind the code.*
 
-- **Phase 1:** Individual Skill Building (Weeks 1-7)
-- **Phase 2:** Team Integration & Vertical Slice (Week 8+)
-- **Goal:** Creating a playable 2.5D Dystopian Puzzle/Stealth Game.
+<div align="center">
 
-Check out our main repository to see our progress:
-### 👉 [Unity Bootcamp 2025 Repository](https://github.com/Lumoria-Studios/Unity-Bootcamp-2025)
-
----
-
-### 👥 The Team
-*Meet the developers behind Lumoria Studios.*
-
-| <a href="https://github.com/B3rou"><img src="https://github.com/B3rou.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/MoQa-atx"><img src="https://github.com/MoQa-atx.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/gurbuzsuleyman"><img src="https://github.com/gurbuzsuleyman.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/Fatih-Gokturk"><img src="https://github.com/Fatih-Gokturk.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/ibrahimdde"><img src="https://github.com/ibrahimdde.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/edazacar"><img src="https://github.com/edazacar.png" width="80px" style="border-radius:50%"/></a> | <a href="https://github.com/RascalPiedra"><img src="https://github.com/RascalPiedra.png" width="80px" style="border-radius:50%"/></a> |
+| <a href="https://github.com/B3rou"><img src="https://github.com/B3rou.png" width="60px" style="border-radius:50%"/></a> | <a href="https://github.com/MoQa-atx"><img src="https://github.com/MoQa-atx.png" width="60px" style="border-radius:50%"/></a> | <a href="https://github.com/gurbuzsuleyman"><img src="https://github.com/gurbuzsuleyman.png" width="60px" style="border-radius:50%"/></a> | <a href="https://github.com/Fatih-Gokturk"><img src="https://github.com/Fatih-Gokturk.png" width="60px" style="border-radius:50%"/></a> | <a href="https://github.com/ibrahimdde"><img src="https://github.com/ibrahimdde.png" width="60px" style="border-radius:50%"/></a> | <a href="https://github.com/edazacar"><img src="https://github.com/edazacar.png" width="60px" style="border-radius:50%"/></a> | <a href="https://github.com/RascalPiedra"><img src="https://github.com/RascalPiedra.png" width="60px" style="border-radius:50%"/></a> |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **[@B3rou](https://github.com/B3rou)** | **[@MoQa-atx](https://github.com/MoQa-atx)** | **[@gurbuzsuleyman](https://github.com/gurbuzsuleyman)** | **[@Fatih-Gokturk](https://github.com/Fatih-Gokturk)** | **[@ibrahimdde](https://github.com/ibrahimdde)** | **[@edazacar](https://github.com/edazacar)** | **[@RascalPiedra](https://github.com/RascalPiedra)** |
-| *Art Lead, Programmer* | *Team Lead, Programmer* | *Programmer* | *Lead Programmer* | *Programmer* | *Artist* | *Programmer* |
+| **@B3rou** | **@MoQa-atx** | **@gurbuzsuleyman** | **@Fatih-Gokturk** | **@ibrahimdde** | **@edazacar** | **@RascalPiedra** |
+| *Art & Code* | *Team Lead* | *Dev* | *Lead Dev* | *Dev* | *Artist* | *Dev* |
 
+</div>
 
----
-
-### 📅 Current Status
-> "We plan, we code, we learn."
-
-- [x] Organization Established 🏢
-- [x] Roadmap Created 🗺️
-- [x] Week 1: Basics & Setup 🚧
-- [ ] First Playable Demo 🎮
+<br />
 
 ---
 
 <div align="center">
-  <p><i>Thanks for visiting Lumoria Studios! Feel free to explore our repos.</i></p>
-  <p>See you in the game! 👋</p>
+  <sub>Imagine. Compile. Play. Repeat.</sub><br>
+  <sub>© 2026 Lumoria Studios</sub>
 </div>
